@@ -254,7 +254,6 @@ const handlePlantsClick = (e) => {
        dispatch(addItem(product));
        setAddedToCart((prevState) => ({...prevState, [product.name]: true}));
    }
-}
     return (
         <div>
              <div className="navbar" style={styleObj}>
