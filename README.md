@@ -1,7 +1,7 @@
 # Shopping Cart Application
 
 ## Description
-This is a shopping cart application that allows users to browse products, add them to the cart, and adjust quantities. The project was forked from [Original Repo]([link-to-original-repo](https://github.com/ibm-developer-skills-network/e-plantShopping.git)) and has been extended with new features, bug fixes, and enhancements.
+This is a shopping cart application that allows users to browse products, add them to the cart, and adjust quantities. The project was forked from ([link-to-original-repo](https://github.com/ibm-developer-skills-network/e-plantShopping.git)) and has been extended with new features, bug fixes, and enhancements.
 
 ## Features
 - Browse product listings
@@ -56,7 +56,7 @@ Contributions are welcome! Please follow these steps:
 5. Create a pull request.
 
 ## Credits
-This project is a fork of the original [Original Repo]([link-to-original-repo](https://github.com/ibm-developer-skills-network/e-plantShopping.git)) created by [IBM Skills Network].
+This project is a fork of the original ([link-to-original-repo](https://github.com/ibm-developer-skills-network/e-plantShopping.git)) created by [IBM Skills Network].
 
 ### My Contributions:
 - Implemented cart quantity update functionality (increment/decrement)
